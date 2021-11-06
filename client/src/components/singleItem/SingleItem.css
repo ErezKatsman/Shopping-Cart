@@ -1,0 +1,11 @@
+.single_item {
+  width: 80vw;
+  height: 60vh;
+  background-color: rgb(105, 71, 25);
+  margin: auto;
+  margin-top: 10vh;
+  display: flex;
+}
+
+.single_item__img {
+}
